@@ -1,0 +1,9 @@
+
+N
+java:S1444"8Make this "public static applicationContext" field final(≤Òç∫
+t
+java:S1104"^Make applicationContext a static final constant or non-public and provide accessors if needed.(≤Òç∫
+â
+java:S1130"sRemove the declaration of thrown exception 'org.springframework.beans.BeansException' which is a runtime exception.(Á‹≥î
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(ô¥‹Ù˘ˇˇˇˇ

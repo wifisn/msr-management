@@ -1,0 +1,7 @@
+
+a	java:S112U"FDefine and throw a dedicated exception instead of using a generic one.(Ð§›;8ÐÞñÙ².
+z
+java:S32526"XUse static access with "org.apache.poi.ss.usermodel.DateUtil" for "isCellDateFormatted".(¡¥€æþÿÿÿÿ8ÐÞñÙ².
+a	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(¨ž›[8ÐÞñÙ².
+n
+java:S3252@"QUse static access with "org.apache.poi.ss.usermodel.Cell" for "CELL_TYPE_STRING".(ÂÔá‡8ÐÞñÙ².

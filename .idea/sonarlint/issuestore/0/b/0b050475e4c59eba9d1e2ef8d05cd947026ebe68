@@ -1,0 +1,11 @@
+
+[
+java:S4719?"9Replace charset name argument with StandardCharsets.UTF_8(‹á±Õÿÿÿÿÿ8Ö‘ŸÙ².
+]	java:S125J"<This block of commented-out lines of code should be removed.(¦Ðˆøúÿÿÿÿ8Ö‘ŸÙ².
+[
+java:S3752+">Add a "method" parameter to this "@RequestMapping" annotation.(™€©·8‘°ŸÙ².
+v
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÃÉ®›8Ö‘ŸÙ².
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(©þêÜúÿÿÿÿ8Ö‘ŸÙ².
+W	java:S1250"<This block of commented-out lines of code should be removed.(¦Ù²^8Ö‘ŸÙ².
+]	java:S125N"<This block of commented-out lines of code should be removed.(èˆ£Ôþÿÿÿÿ8Ö‘ŸÙ².
